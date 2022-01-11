@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# drf_example
-=======
 <p align="center">
   <a href="" rel="noopener">
  <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
@@ -115,4 +112,3 @@ See also the list of [contributors](https://github.com/kylelobo/The-Documentatio
 - Hat tip to anyone whose code was used
 - Inspiration
 - References
->>>>>>> 2ad3485 (drf example project)
